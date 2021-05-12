@@ -1,4 +1,4 @@
-# BION-M3
+# BION-M2
 
 Scripts for programming the clock generator (I2C) and ADCs (SPI) through Raspberry Pi 3B+. Eventually, the firmware running on PIC microcontroller should do the programming of both devices. The programming with Rapsberry Pi is only for testing purposes.
 
